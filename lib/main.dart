@@ -123,7 +123,7 @@ class _akkenaState extends State<akkena> {
                                 item,
                                 style: TextStyle(
                                     color: item.contains('off')
-                                        ? Colors.black
+                                        ? Black
                                         : ggreen,
                                     fontSize: item.contains('off') ? 20 : 10,
                                     fontWeight: FontWeight.w500),
