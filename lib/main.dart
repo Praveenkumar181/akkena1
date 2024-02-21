@@ -124,7 +124,7 @@ class _akkenaState extends State<akkena> {
                                 style: TextStyle(
                                     color: item.contains('off')
                                         ? Colors.black
-                                        : yellow1,
+                                        : ggreen,
                                     fontSize: item.contains('off') ? 20 : 10,
                                     fontWeight: FontWeight.w500),
                               ),
@@ -166,7 +166,7 @@ class _akkenaState extends State<akkena> {
                                 text: 'Food',
                                 style: TextStyle(
                                     color:
-                                        blue55, // Set green color for the additional text
+                                        ggreen, // Set green color for the additional text
                                     fontSize: 20,
                                     fontWeight: FontWeight.w500),
                               ),
