@@ -1,4 +1,4 @@
-# akkenna
+# akkenn
 
 A new Flutter project.
 
